@@ -1,0 +1,13 @@
+.App {
+  width: 100%;
+  height: 100%;
+  max-width: 1000px;
+  background: rgb(233, 233, 233); 
+  margin: auto;
+}
+
+h1 {
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+}

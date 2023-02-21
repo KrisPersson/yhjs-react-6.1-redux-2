@@ -1,0 +1,7 @@
+.greet {
+    font-size: 2rem;
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding: 1rem;
+    text-align: center;
+}
